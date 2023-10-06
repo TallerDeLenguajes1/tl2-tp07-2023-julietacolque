@@ -32,3 +32,13 @@ D:\Facultad\2A 2-Cuatrimestre\Taller II\Practica Parcial\tl2-tp07-2023-julietaco
 D:\Facultad\2A 2-Cuatrimestre\Taller II\Practica Parcial\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\tl2-tp07-2023-julietacolque.genruntimeconfig.cache
 D:\Facultad\2A 2-Cuatrimestre\Taller II\Practica Parcial\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\ref\tl2-tp07-2023-julietacolque.dll
 D:\Facultad\2A 2-Cuatrimestre\Taller II\Practica Parcial\tl2-tp07-2023-julietacolque\bin\Debug\net7.0\Tareas.json
+C:\Users\Alumno\Desktop\tallerTP7\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\tl2-tp07-2023-julietacolque.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\tallerTP7\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\tl2-tp07-2023-julietacolque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tallerTP7\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\tl2-tp07-2023-julietacolque.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tallerTP7\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\tl2-tp07-2023-julietacolque.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tallerTP7\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\tl2-tp07-2023-julietacolque.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tallerTP7\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\tl2-tp07-2023-julietacolque.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alumno\Desktop\tallerTP7\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\tl2-tp07-2023-julietacolque.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alumno\Desktop\tallerTP7\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\tl2-tp07-2023-julietacolque.dll
+C:\Users\Alumno\Desktop\tallerTP7\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\refint\tl2-tp07-2023-julietacolque.dll
+C:\Users\Alumno\Desktop\tallerTP7\tl2-tp07-2023-julietacolque\obj\Debug\net7.0\tl2-tp07-2023-julietacolque.pdb

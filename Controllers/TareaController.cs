@@ -28,4 +28,29 @@ public class TareaController : ControllerBase
         return Ok(tareaAux);
     }
 
+    [HttpGet("BuscarTarea")]
+
+    public ActionResult<Tarea> BuscarTareaPorId(int id){
+
+        var tarea = manejoTareas.BuscarTporId(id);
+        if(tarea!=null)return ok(tarea);
+        return  BadRequest();
+        
+    }
+
+    [HttpGet("ListarTareas")]
+    public ActionResult<List<Tarea>> ListarTareas(){
+        var lista = manejoTareas.ListarTareas();
+        if(lista.Count()!=0)return ok(lista);
+        return BadRequest();
+    }
+
+    [HttpGet("ListarTareasCompletadas")]
+
+    public ActionResult<List<Tarea>> TareasCompletadas(){
+        var listaC = manejoTareas.ListarTareasCompletadas();
+        if(listaC.Count()!=0)return ok(listaC);
+        return BadRequest();
+    }
+
 }
