@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using  WebApi;
 
 namespace tl2_tp07_2023_julietacolque.Controllers;
 
@@ -11,11 +12,27 @@ public class WeatherForecastController : ControllerBase
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
+    private Tarea tarea;
+
     private readonly ILogger<WeatherForecastController> _logger;
 
     public WeatherForecastController(ILogger<WeatherForecastController> logger)
     {
         _logger = logger;
+        
+        tarea = new Tarea();
+        var tarea2 = new Tarea();
+        var tarea3 = new Tarea();
+        
+        
+        List<Tarea>lista = new()
+        {
+            tarea,
+            tarea2,
+            tarea3
+        };
+        AccesoADatos.Guardar(lista);
+
     }
 
     [HttpGet(Name = "GetWeatherForecast")]
